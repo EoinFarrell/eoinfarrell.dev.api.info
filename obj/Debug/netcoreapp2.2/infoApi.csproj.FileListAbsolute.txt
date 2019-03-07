@@ -1,0 +1,14 @@
+/home/eoin/Dev/c#/eoinfarrell.dev/infoApi/bin/Debug/netcoreapp2.2/infoApi.deps.json
+/home/eoin/Dev/c#/eoinfarrell.dev/infoApi/bin/Debug/netcoreapp2.2/infoApi.runtimeconfig.json
+/home/eoin/Dev/c#/eoinfarrell.dev/infoApi/bin/Debug/netcoreapp2.2/infoApi.runtimeconfig.dev.json
+/home/eoin/Dev/c#/eoinfarrell.dev/infoApi/bin/Debug/netcoreapp2.2/infoApi.dll
+/home/eoin/Dev/c#/eoinfarrell.dev/infoApi/bin/Debug/netcoreapp2.2/infoApi.pdb
+/home/eoin/Dev/c#/eoinfarrell.dev/infoApi/obj/Debug/netcoreapp2.2/infoApi.csprojAssemblyReference.cache
+/home/eoin/Dev/c#/eoinfarrell.dev/infoApi/obj/Debug/netcoreapp2.2/infoApi.csproj.CoreCompileInputs.cache
+/home/eoin/Dev/c#/eoinfarrell.dev/infoApi/obj/Debug/netcoreapp2.2/infoApi.RazorAssemblyInfo.cache
+/home/eoin/Dev/c#/eoinfarrell.dev/infoApi/obj/Debug/netcoreapp2.2/infoApi.RazorAssemblyInfo.cs
+/home/eoin/Dev/c#/eoinfarrell.dev/infoApi/obj/Debug/netcoreapp2.2/infoApi.AssemblyInfoInputs.cache
+/home/eoin/Dev/c#/eoinfarrell.dev/infoApi/obj/Debug/netcoreapp2.2/infoApi.AssemblyInfo.cs
+/home/eoin/Dev/c#/eoinfarrell.dev/infoApi/obj/Debug/netcoreapp2.2/infoApi.RazorTargetAssemblyInfo.cache
+/home/eoin/Dev/c#/eoinfarrell.dev/infoApi/obj/Debug/netcoreapp2.2/infoApi.dll
+/home/eoin/Dev/c#/eoinfarrell.dev/infoApi/obj/Debug/netcoreapp2.2/infoApi.pdb
